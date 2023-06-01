@@ -1,17 +1,20 @@
 {
   "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
     "footerInfo": "Powered by <a href=\"https://github.com/getgridea/gridea\" target=\"_blank\">Gridea</a>",
     "postPageSize": 10,
-    "archivesPageSize": 50,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
     "showFeatureImage": true,
     "siteDescription": "温故而知新",
     "siteName": "Gridea",
-    "themeName": "notes",
-    "dateFormat": "YYYY-MM-DD",
-    "postUrlFormat": "SLUG",
+    "tagPath": "tag",
     "tagUrlFormat": "SHORT_ID",
-    "feedCount": 10,
-    "feedFullText": true
+    "themeName": "paper"
   },
   "customConfig": {}
 }
