@@ -1,0 +1,29 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https:// tinywindows.github.io",
+    "email": "botaowei@hotmail.com",
+    "enabledProxy": "proxy",
+    "platform": "github",
+    "proxyPath": "127.0.0.1",
+    "proxyPort": "7890",
+    "repository": " tinywindows.github.io",
+    "token": "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",
+    "username": "tinywindows"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
