@@ -1,12 +1,15 @@
 {
   "config": {
+    "branch": "main",
+    "domain": "https://tinywindows.github.io",
+    "email": "botaowei@hotmail.com",
+    "enabledProxy": "proxy",
     "platform": "github",
-    "domain": "",
-    "repository": "",
-    "branch": "",
-    "username": "",
-    "email": "",
-    "token": ""
+    "proxyPath": "127.0.0.1",
+    "proxyPort": "7890",
+    "repository": "tinywindows.github.io",
+    "token": "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",
+    "username": "tinywindows"
   },
   "comment": {
     "commentPlatform": "gitalk",
