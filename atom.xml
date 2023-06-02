@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinywindows.github.io</id>
     <title>tiny10 and tiny11</title>
-    <updated>2023-06-02T03:23:12.923Z</updated>
+    <updated>2023-06-02T04:19:31.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tinywindows.github.io"/>
     <link rel="self" href="https://tinywindows.github.io/atom.xml"/>
@@ -11,35 +11,98 @@
     <icon>https://tinywindows.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, tiny10 and tiny11</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tinywindows.github.io/post/hello-gridea/</id>
-        <link href="https://tinywindows.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[ Disable Automatic Updates]]></title>
+        <id>https://tinywindows.github.io/post/disable/</id>
+        <link href="https://tinywindows.github.io/post/disable/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="https://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2023-06-02T04:15:39.000Z</updated>
+        <content type="html"><![CDATA[<p>WAU Manager<br>
+by:https://www.carifred.com/wau_manager/<br>
+WAU Manager was built to fully replace the built in Windows Automatic Updating (WAU) system. However, unlike the latter, WAU Manger puts you in control of everything. With WAU Manager you can:<br>
+Update manually when desired with just a double-click on a dedicated desktop shortcut<br>
+Update automatically with the desired frequency. Once a day, once a month or once a year, or whatever you decide.<br>
+You get to choose whether the available updates are automatically downloaded and installed or not.<br>
+Easily uninstall several updates at once.</p>
+<ul>
+<li>
+<p><a href="https://up-load.io/qvs3bpts3gym">Download WAU Manager</a></p>
+</li>
+<li>
+<p><a href="https://up-load.io/free127393.html">Create account download faster</a></p>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://s2.loli.net/2023/03/21/zEvXqLUe47s6yai.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ Vedio tutorial]]></title>
+        <id>https://tinywindows.github.io/post/vedio-tutorial/</id>
+        <link href="https://tinywindows.github.io/post/vedio-tutorial/">
+        </link>
+        <updated>2023-06-02T04:12:03.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://www.youtube.com/watch?v=5-YrWtQdlL8"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1685679299/video_to_markdown/images/youtube--5-YrWtQdlL8-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="" loading="lazy"></a></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ Tiny11 download]]></title>
+        <id>https://tinywindows.github.io/post/tiny11/</id>
+        <link href="https://tinywindows.github.io/post/tiny11/">
+        </link>
+        <updated>2023-06-02T04:09:57.000Z</updated>
+        <content type="html"><![CDATA[<p>by NTDEV</p>
+<p>https://archive.org/details/tiny-11-NTDEV</p>
+<p>Topics Windows, Windows11, Windows10 Language English tiny11 is finally here!</p>
+<p>Based off of Windows 11 Pro 22H2, tiny11 has everything you need for a comfortable computing experience without the bloat and clutter of a standard Windows installation.</p>
+<p>It just uses around 8GB of space compared to the 20+GB that a standard installation does.</p>
+<p>You can upgrade from Windows 10 and install it on unsupported devices.</p>
+<p>Let me know if you like it!</p>
+<p>Addeddate 2023-02-03 09:33:30 Identifier tiny-11-NTDEV</p>
+<p>ISO IMAGE DOWNLOAD</p>
+<ul>
+<li><a href="https://up-load.io/4blx2mwx3dw8">3.0 GB 22H2 Beta1</a></li>
+<li><a href="https://up-load.io/etu5cnodz43q">3.6 GB 22H2 Beta2</a></li>
+<li><a href="https://up-load.io/jp8xecqqjv8e">4.2 GB 22H2 R1</a></li>
+</ul>
+<p><a href="https://up-load.io/free127393.html">Create account download faster</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ How to instell Tiny10&Tiny11]]></title>
+        <id>https://tinywindows.github.io/post/tiny10andtiny11/</id>
+        <link href="https://tinywindows.github.io/post/tiny10andtiny11/">
+        </link>
+        <updated>2023-06-02T03:43:42.000Z</updated>
+        <content type="html"><![CDATA[<p>After you get Tiny10 or Tiny11 ISO downloaded, make a bootable drive and install the system with the given steps.</p>
+<ul>
+<li>
+<p>Step 1: Download tiny10 or tiny11 and install a piece of USB bootable software like <a href="https://up-load.io/ngmygkm78fms">Rufus(click download)</a>. Here we use Rufus.</p>
+</li>
+<li>
+<p>Step 2: Plug a USB flash drive into your computer.</p>
+</li>
+<li>
+<p>Step 3: Run Rufus, choose the downloaded Tiny10 ISO file, pick NTFS file system, and click the START button.</p>
+<figure data-type="image" tabindex="1"><img src="https://s2.loli.net/2023/03/18/LpMFnEsPb3g6x8I.png" alt="Rufus" loading="lazy"></figure>
+</li>
+<li>
+<p>Step 4: After the process ends, the bootable USB drive is ready.</p>
+</li>
+<li>
+<p>Step 5: Connect the bootable drive to the target computer.</p>
+</li>
+<li>
+<p>Step 6: Enter the boot menu of that computer by holding a boot key like F12 during the restart process.</p>
+</li>
+<li>
+<p>Step 7: Choose the connected USB drive and press Enter to continue.</p>
+</li>
+<li>
+<p>Step 8: Then you will access Tiny10 or Tiny11’s installation window which is similar to Windows 10’s. Select a drive to install this lightweight Windows 10 and click Next.</p>
+</li>
+<li>
+<p>Step 9: Follow the on-screen instructions to finish the Tiny10 or Tiny11 installation.</p>
+</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
