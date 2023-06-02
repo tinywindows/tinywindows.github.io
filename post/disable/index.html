@@ -1,102 +1,98 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    
+<meta charset="utf-8" >
 
 <title> Disable Automatic Updates | tiny10 and tiny11</title>
-<meta name="description" content="温故而知新">
+<meta name="description" content="tiny10 and tiny11 download">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="shortcut icon" href="https://tinywindows.github.io/favicon.ico?v=1685679566523">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css" />
+<link rel="shortcut icon" href="https://tinywindows.github.io/favicon.ico?v=1685679719357">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://tinywindows.github.io/styles/main.css">
 
 
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
 
-
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 
   </head>
   <body>
-  
-    <nav class="navbar border fixed split-nav">
-  <div class="nav-brand">
-    <h3><a href="https://tinywindows.github.io">tiny10 and tiny11</a></h3>
-  </div>
-  <div class="collapsible">
-    <input id="collapsible1" type="checkbox" name="collapsible1">
-    <button>
-      <label for="collapsible1">
-        <div class="bar1"></div>
-        <div class="bar2"></div>
-        <div class="bar3"></div>
-      </label>
-    </button>
-    <div class="collapsible-body">
-      <ul class="inline">
-        
-          <li>
-            
-              <a href="/" class="menu">
-                Home
-              </a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="https://tinywindows.github.io/post/tiny10" class="menu" target="_blank">
-                Tiny10 download
-              </a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="https://tinywindows.github.io/post/tiny11" class="menu" target="_blank">
-                Tiny11 download
-              </a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="https://tinywindows.github.io/post/vedio-tutorial" class="menu" target="_blank">
-                Vedio tutorial
-              </a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="https://tinywindows.github.io/post/disable" class="menu" target="_blank">
-                Disable Automatic Updates
-              </a>
-            
-          </li>
-        
-      </ul>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://tinywindows.github.io">
+        <img class="avatar" src="https://tinywindows.github.io/images/avatar.png?v=1685679719357" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://tinywindows.github.io">
+        <h1 class="site-title">tiny10 and tiny11</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
     </div>
   </div>
-</nav>
+</div>
 
-    <div id="top" class="row site">
-      <div class="sm-12 md-8 col">
-        <div class="paper">
-          <article class="article">
-            <h1> Disable Automatic Updates</h1>
-            <p class="article-meta">
-              2023-06-02
-              
-            </p>
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            Home
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://tinywindows.github.io/post/tiny10" class="menu" target="_blank">
+            Tiny10 download
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://tinywindows.github.io/post/tiny11" class="menu" target="_blank">
+            Tiny11 download
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://tinywindows.github.io/post/vedio-tutorial" class="menu" target="_blank">
+            Vedio tutorial
+          </a>
+        
+      
+        
+          <a class="menu purple-link" href="https://tinywindows.github.io/post/disable" class="menu" target="_blank">
+            Disable Automatic Updates
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title"> Disable Automatic Updates</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2023-06-02</span>
             
-            <div class="post-content" v-pre>
-              <p>WAU Manager<br>
+          </div>
+          <div class="post-content" v-pre>
+            <p>WAU Manager<br>
 by:https://www.carifred.com/wau_manager/<br>
 WAU Manager was built to fully replace the built in Windows Automatic Updating (WAU) system. However, unlike the latter, WAU Manger puts you in control of everything. With WAU Manager you can:<br>
 Update manually when desired with just a double-click on a dedicated desktop shortcut<br>
@@ -113,107 +109,52 @@ Easily uninstall several updates at once.</p>
 </ul>
 <figure data-type="image" tabindex="1"><img src="https://s2.loli.net/2023/03/21/zEvXqLUe47s6yai.jpg" alt="" loading="lazy"></figure>
 
-            </div>
-          </article>
+          </div>
         </div>
-        <div class="paper" data-aos="fade-in">
-          
-            <div class="next-post">
-              <div class="next">
-                下一篇
-              </div>
-              <a href="https://tinywindows.github.io/post/vedio-tutorial/">
-                <h3 class="post-title">
-                   Vedio tutorial
-                </h3>
-              </a>
-            </div>
-          
-        </div>
+
         
+          <div class="next-post">
+            <a class="purple-link" href="https://tinywindows.github.io/post/vedio-tutorial/">
+              <h3 class="post-title">
+                下一篇： Vedio tutorial
+              </h3>
+            </a>
+          </div>
+          
       </div>
 
-      <div class="sm-12 md-4 col sidebar">
-  <div class="paper info-container">
-    <img src="https://tinywindows.github.io/images/avatar.png?v=1685679566523" class="no-responsive avatar">
-    <div class="text-muted">温故而知新</div>
-    <div class="social-container">
       
-        
+
+      <div class="site-footer">
+  <div class="slogan">tiny10 and tiny11 download</div>
+  <div class="social-container">
+    
       
-        
+    
       
-        
+    
       
-        
+    
       
-        
+    
       
-    </div>
+    
   </div>
-  <div class="paper">
-    <div class="sidebar-title">
-      最新文章
-    </div>
-    <div class="row">
-      <ul>
-        
-          
-            <li>
-              <a href="https://tinywindows.github.io/post/disable/"> Disable Automatic Updates</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://tinywindows.github.io/post/vedio-tutorial/"> Vedio tutorial</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://tinywindows.github.io/post/tiny11/"> Tiny11 download</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://tinywindows.github.io/post/tiny10andtiny11/"> How to instell Tiny10&amp;Tiny11</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://tinywindows.github.io/post/tiny10/">Tiny10 download</a>
-            </li>
-          
-        
-      </ul>
-    </div>
-  </div>
-  <div class="paper">
-    <div class="sidebar-title">
-      标签列表
-    </div>
-    <div class="row">
-      
-    </div>
-  </div>
-  <div class="paper">
-    Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://tinywindows.github.io/atom.xml" target="_blank">RSS</a>
-  </div>
+   | <a class="rss" href="https://tinywindows.github.io/atom.xml" target="_blank">RSS</a>
 </div>
 
 
     </div>
-
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-
-<script type="application/javascript">
-
-AOS.init();
+    <script type="application/javascript">
 
 hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
 </script>
 
