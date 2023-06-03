@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tinywindows.github.io</id>
+    <id>https://tiny10.com</id>
     <title>tiny10 and tiny11</title>
-    <updated>2023-06-03T04:20:25.207Z</updated>
+    <updated>2023-06-03T04:25:22.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tinywindows.github.io"/>
-    <link rel="self" href="https://tinywindows.github.io/atom.xml"/>
+    <link rel="alternate" href="https://tiny10.com"/>
+    <link rel="self" href="https://tiny10.com/atom.xml"/>
     <subtitle>tiny10 and tiny11 download</subtitle>
-    <logo>https://tinywindows.github.io/images/avatar.png</logo>
-    <icon>https://tinywindows.github.io/favicon.ico</icon>
+    <logo>https://tiny10.com/images/avatar.png</logo>
+    <icon>https://tiny10.com/favicon.ico</icon>
     <rights>All rights reserved 2023, tiny10 and tiny11</rights>
     <entry>
         <title type="html"><![CDATA[ Disable Automatic Updates]]></title>
-        <id>https://tinywindows.github.io/post/disable/</id>
-        <link href="https://tinywindows.github.io/post/disable/">
+        <id>https://tiny10.com/post/disable/</id>
+        <link href="https://tiny10.com/post/disable/">
         </link>
         <updated>2023-06-02T04:15:39.000Z</updated>
         <content type="html"><![CDATA[<p>WAU Manager<br>
@@ -36,8 +36,8 @@ Easily uninstall several updates at once.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[ Vedio tutorial]]></title>
-        <id>https://tinywindows.github.io/post/vedio-tutorial/</id>
-        <link href="https://tinywindows.github.io/post/vedio-tutorial/">
+        <id>https://tiny10.com/post/vedio-tutorial/</id>
+        <link href="https://tiny10.com/post/vedio-tutorial/">
         </link>
         <updated>2023-06-02T04:12:03.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://www.youtube.com/watch?v=5-YrWtQdlL8"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1685679299/video_to_markdown/images/youtube--5-YrWtQdlL8-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="" loading="lazy"></a></figure>
@@ -45,8 +45,8 @@ Easily uninstall several updates at once.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[ Tiny11 download]]></title>
-        <id>https://tinywindows.github.io/post/tiny11/</id>
-        <link href="https://tinywindows.github.io/post/tiny11/">
+        <id>https://tiny10.com/post/tiny11/</id>
+        <link href="https://tiny10.com/post/tiny11/">
         </link>
         <updated>2023-06-02T04:09:57.000Z</updated>
         <content type="html"><![CDATA[<p>by NTDEV</p>
@@ -68,8 +68,8 @@ Easily uninstall several updates at once.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[ How to instell Tiny10&Tiny11]]></title>
-        <id>https://tinywindows.github.io/post/tiny10andtiny11/</id>
-        <link href="https://tinywindows.github.io/post/tiny10andtiny11/">
+        <id>https://tiny10.com/post/tiny10andtiny11/</id>
+        <link href="https://tiny10.com/post/tiny10andtiny11/">
         </link>
         <updated>2023-06-02T03:43:42.000Z</updated>
         <summary type="html"><![CDATA[<p>After you get Tiny10 or Tiny11 ISO downloaded, make a bootable drive and install the system with the given steps.</p>
@@ -140,8 +140,8 @@ Easily uninstall several updates at once.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tiny10 download]]></title>
-        <id>https://tinywindows.github.io/post/tiny10/</id>
-        <link href="https://tinywindows.github.io/post/tiny10/">
+        <id>https://tiny10.com/post/tiny10/</id>
+        <link href="https://tiny10.com/post/tiny10/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<p>Tiny10 (version 1809, 2209 and 2303)<br>
