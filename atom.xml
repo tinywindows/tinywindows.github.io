@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiny10.com</id>
     <title>tiny10 and tiny11</title>
-    <updated>2023-06-03T05:14:11.542Z</updated>
+    <updated>2023-06-03T05:19:12.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiny10.com"/>
     <link rel="self" href="https://tiny10.com/atom.xml"/>
@@ -75,7 +75,7 @@ Easily uninstall several updates at once.</p>
         <summary type="html"><![CDATA[<p>After you get Tiny10 or Tiny11 ISO downloaded, make a bootable drive and install the system with the given steps.</p>
 <ul>
 <li>
-<p>Step 1: Download tiny10 or tiny11 and install a piece of USB bootable software like <a href="https://up-load.io/ngmygkm78fms">Rufus(click download)</a>{:target=&quot;_blank&quot;}. Here we use Rufus.</p>
+<p>Step 1: Download tiny10 or tiny11 and install a piece of USB bootable software like <a href="https://up-load.io/ngmygkm78fms">Rufus(click download)</a>. Here we use Rufus.</p>
 </li>
 <li>
 <p>Step 2: Plug a USB flash drive into your computer.</p>
@@ -107,7 +107,7 @@ Easily uninstall several updates at once.</p>
         <content type="html"><![CDATA[<p>After you get Tiny10 or Tiny11 ISO downloaded, make a bootable drive and install the system with the given steps.</p>
 <ul>
 <li>
-<p>Step 1: Download tiny10 or tiny11 and install a piece of USB bootable software like <a href="https://up-load.io/ngmygkm78fms">Rufus(click download)</a>{:target=&quot;_blank&quot;}. Here we use Rufus.</p>
+<p>Step 1: Download tiny10 or tiny11 and install a piece of USB bootable software like <a href="https://up-load.io/ngmygkm78fms">Rufus(click download)</a>. Here we use Rufus.</p>
 </li>
 <li>
 <p>Step 2: Plug a USB flash drive into your computer.</p>
