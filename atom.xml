@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinywindows.github.io</id>
     <title>tiny10 and tiny11</title>
-    <updated>2023-06-03T04:07:44.605Z</updated>
+    <updated>2023-06-03T04:16:02.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tinywindows.github.io"/>
     <link rel="self" href="https://tinywindows.github.io/atom.xml"/>
@@ -72,36 +72,29 @@ Easily uninstall several updates at once.</p>
         <link href="https://tinywindows.github.io/post/tiny10andtiny11/">
         </link>
         <updated>2023-06-02T03:43:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>After you get Tiny10 or Tiny11 ISO downloaded, make a bootable drive and install the system with the given steps.</p>
+<ul>
+<li>Step 1: Download tiny10 or tiny11 and install a piece of USB bootable software like <a href="https://up-load.io/ngmygkm78fms">Rufus(click download)</a>. Here we use Rufus.</li>
+<li>Step 2: Plug a USB flash drive into your computer.</li>
+<li>Step 3: Run Rufus, choose the downloaded Tiny10 ISO file, pick NTFS file system, and click the START button.<br>
+<img src="https://s2.loli.net/2023/03/18/LpMFnEsPb3g6x8I.png" alt="Rufus" loading="lazy"></li>
+</ul>
+]]></summary>
         <content type="html"><![CDATA[<p>After you get Tiny10 or Tiny11 ISO downloaded, make a bootable drive and install the system with the given steps.</p>
 <ul>
-<li>
-<p>Step 1: Download tiny10 or tiny11 and install a piece of USB bootable software like <a href="https://up-load.io/ngmygkm78fms">Rufus(click download)</a>. Here we use Rufus.</p>
-</li>
-<li>
-<p>Step 2: Plug a USB flash drive into your computer.</p>
-</li>
-<li>
-<p>Step 3: Run Rufus, choose the downloaded Tiny10 ISO file, pick NTFS file system, and click the START button.</p>
-<figure data-type="image" tabindex="1"><img src="https://s2.loli.net/2023/03/18/LpMFnEsPb3g6x8I.png" alt="Rufus" loading="lazy"></figure>
-</li>
-<li>
-<p>Step 4: After the process ends, the bootable USB drive is ready.</p>
-</li>
-<li>
-<p>Step 5: Connect the bootable drive to the target computer.</p>
-</li>
-<li>
-<p>Step 6: Enter the boot menu of that computer by holding a boot key like F12 during the restart process.</p>
-</li>
-<li>
-<p>Step 7: Choose the connected USB drive and press Enter to continue.</p>
-</li>
-<li>
-<p>Step 8: Then you will access Tiny10 or Tiny11’s installation window which is similar to Windows 10’s. Select a drive to install this lightweight Windows 10 and click Next.</p>
-</li>
-<li>
-<p>Step 9: Follow the on-screen instructions to finish the Tiny10 or Tiny11 installation.</p>
-</li>
+<li>Step 1: Download tiny10 or tiny11 and install a piece of USB bootable software like <a href="https://up-load.io/ngmygkm78fms">Rufus(click download)</a>. Here we use Rufus.</li>
+<li>Step 2: Plug a USB flash drive into your computer.</li>
+<li>Step 3: Run Rufus, choose the downloaded Tiny10 ISO file, pick NTFS file system, and click the START button.<br>
+<img src="https://s2.loli.net/2023/03/18/LpMFnEsPb3g6x8I.png" alt="Rufus" loading="lazy"></li>
+</ul>
+<!-- more -->
+<ul>
+<li>Step 4: After the process ends, the bootable USB drive is ready.</li>
+<li>Step 5: Connect the bootable drive to the target computer.</li>
+<li>Step 6: Enter the boot menu of that computer by holding a boot key like F12 during the restart process.</li>
+<li>Step 7: Choose the connected USB drive and press Enter to continue.</li>
+<li>Step 8: Then you will access Tiny10 or Tiny11’s installation window which is similar to Windows 10’s. Select a drive to install this lightweight Windows 10 and click Next.</li>
+<li>Step 9: Follow the on-screen instructions to finish the Tiny10 or Tiny11 installation.</li>
 </ul>
 ]]></content>
     </entry>
